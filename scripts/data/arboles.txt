@@ -1,0 +1,827 @@
+Finca Pino|7000|-8000|-250
+Finca Pino|-9000|16000|-250
+Finca Pino|18000|40000|-250
+Finca Arbol claro|-19000|-17000|-250
+Finca Arbol claro|-27000|-12000|-250
+Finca Arbol claro|-4000|20000|-250
+Finca Cipres|-36000|-23500|-250
+Finca Cipres|-28000|-22540|-250
+Finca Cipres|-20000|-21580|-250
+Finca Cipres|1000|-19060|-250
+Finca Cipres|9000|-18100|-250
+Finca Cipres|-30000|-38000|-250
+Finca Palma|-5000|-37000|-250
+Finca Palma|3000|-34000|-250
+Finca Palma|10000|-33000|-250
+Finca Palma|-2000|-42000|-250
+Finca Palma|16000|-32000|-250
+Finca Buganvilla|5000|-4200|-250
+Finca Buganvilla|8000|-4500|-250
+Finca Buganvilla|11000|-3000|-250
+Finca Buganvilla|10500|1500|-250
+Finca Buganvilla|-7500|-4600|-250
+Finca Arbol frondoso|-45000|-52000|-250
+Finca Arbol frondoso|32000|-30000|-250
+Finca Arbol frondoso|44000|-14000|-250
+Finca Arbol frondoso|58000|-32000|-250
+Finca Arbol frondoso|-55000|-20000|-250
+Finca Arbol frondoso|62000|5000|-250
+Finca Arbusto|-61993|44413|-250
+Finca Arbusto|-24688|-41523|-250
+Finca Arbusto|32089|-2542|-250
+Finca Arbusto|-19519|23998|-250
+Finca Arbusto|35405|-1315|-250
+Finca Arbusto|26302|9946|-250
+Finca Arbusto|43362|-37717|-250
+Finca Arbusto|-13724|18656|-250
+Finca Arbusto|28048|-60480|-250
+Finca Arbusto|56990|30696|-250
+Finca Arbusto|-46154|-4920|-250
+Finca Arbusto|57089|16309|-250
+Finca Arbusto|21044|2869|-250
+Finca Arbusto|55647|42908|-250
+Finca Arbusto|-13980|-26418|-250
+Finca Arbusto|45995|-26798|-250
+Finca Arbusto|58907|442|-250
+Finca Arbusto|-54438|-33908|-250
+Finca Arbusto|-7634|-43653|-250
+Finca Arbusto|55257|-60360|-250
+Finca Arbusto|-14855|-25361|-250
+Finca Arbusto|23710|44846|-250
+Finca Arbusto|-14985|-15702|-250
+Finca Arbusto|-19098|-2669|-250
+Finca Arbusto|17212|-38779|-250
+Finca Arbusto|54938|-11602|-250
+Finca Arbusto|49328|9851|-250
+Finca Arbusto|3139|16368|-250
+Finca Arbusto|59205|-18997|-250
+Finca Arbusto|29362|-36614|-250
+Finca Arbusto|-19353|-19637|-250
+Finca Arbusto|-47671|32122|-250
+Finca Arbusto|-51973|-17777|-250
+Finca Arbusto|-42189|-57576|-250
+Finca Arbusto|66510|-40379|-250
+Finca Arbusto|19575|-49545|-250
+Finca Arbusto|-44224|44546|-250
+Finca Arbusto|52109|40760|-250
+Finca Arbusto|52193|42839|-250
+Finca Arbusto|36185|-33674|-250
+Finca Arbusto|-60647|-36956|-250
+Finca Arbusto|-52191|-66808|-250
+Finca Arbusto|17572|-39003|-250
+Finca Arbusto|33608|-7787|-250
+Finca Arbusto|26691|-38196|-250
+Finca Arbusto|51789|-38545|-250
+Finca Arbusto|-13761|41208|-250
+Finca Arbusto|-46730|-7799|-250
+Finca Arbusto|-61617|43472|-250
+Finca Arbusto|-59291|41906|-250
+Finca Arbusto|-37731|50217|-250
+Finca Arbusto|-27651|-40044|-250
+Finca Arbusto|-55247|26100|-250
+Finca Arbusto|28391|19403|-250
+Finca Arbusto|2266|-63040|-250
+Finca Arbusto|-47770|44203|-250
+Finca Palma|35492|-54803|-250
+Finca Palma|67507|-71073|-250
+Finca Palma|67092|-50466|-250
+Finca Palma|71695|-48143|-250
+Finca Palma|62125|-61510|-250
+Finca Palma|40425|-53808|-250
+Finca Palma|67053|-62042|-250
+Finca Palma|39859|-61878|-250
+Finca Palma|67253|-58031|-250
+Finca Palma|44760|-56462|-250
+Finca Palma|60865|-63624|-250
+Finca Palma|60458|-61431|-250
+Finca Palma|38342|-64207|-250
+Finca Palma|71390|-47146|-250
+Finca Palma|56561|-50195|-250
+Finca Palma|68569|-67012|-250
+Finca Palma|57099|-68615|-250
+Finca Palma|50893|-58066|-250
+Finca Palma|62399|-48356|-250
+Finca Palma|50247|-67321|-250
+Finca Palma|48760|-67847|-250
+Finca Palma|57830|-58957|-250
+Finca Palma|53584|-59332|-250
+Finca Palma|61800|-62939|-250
+Finca Palma|61537|-71350|-250
+Finca Arbol bosque|-66375|-69392|-250
+Finca Arbol frondoso|-60127|-69293|-250
+Finca Arbol frondoso|-66712|-62774|-250
+Finca Arbol frondoso|-58531|-60254|-250
+Finca Arbol frondoso|-65957|-53123|-250
+Finca Arbol bosque|-58714|-54197|-250
+Finca Arbol frondoso|-65305|-48889|-250
+Finca Arbol bosque|-60759|-48675|-250
+Finca Arbol bosque|-67972|-40185|-250
+Finca Arbol frondoso|-60424|-41599|-250
+Finca Arbol bosque|-65975|-34270|-250
+Finca Arbol bosque|-58018|-33732|-250
+Finca Arbol frondoso|-65677|-26809|-250
+Finca Arbol bosque|-60816|-27310|-250
+Finca Arbol frondoso|-65077|-20543|-250
+Finca Arbol frondoso|-59474|-20634|-250
+Finca Arbol bosque|-66192|-13488|-250
+Finca Arbol bosque|-60182|-12060|-250
+Finca Arbol frondoso|-66558|-4019|-250
+Finca Arbol bosque|-59760|-6057|-250
+Finca Arbol bosque|-67982|1240|-250
+Finca Arbol bosque|-60297|2772|-250
+Finca Arbol frondoso|-65708|8310|-250
+Finca Arbol frondoso|-58113|9403|-250
+Finca Arbol frondoso|-66284|15044|-250
+Finca Arbol bosque|-59509|15484|-250
+Finca Arbol frondoso|-65835|22995|-250
+Finca Arbol frondoso|-58813|23654|-250
+Finca Arbol frondoso|-65035|29314|-250
+Finca Arbol bosque|-58128|30925|-250
+Finca Arbol bosque|-67762|36028|-250
+Finca Arbol frondoso|-58875|37214|-250
+Finca Arbol frondoso|-65639|42621|-250
+Finca Arbol bosque|-58605|42312|-250
+Finca Arbol frondoso|-65599|50906|-250
+Finca Arbol frondoso|-59392|50329|-250
+Finca Arbol frondoso|-66310|58621|-250
+Finca Arbol bosque|-58940|57302|-250
+Finca Arbol bosque|-55437|54466|-250
+Finca Arbol bosque|-45303|53068|-250
+Finca Arbol bosque|-37951|52736|-250
+Finca Arbol bosque|-31077|52474|-250
+Finca Arbol bosque|-23605|55616|-250
+Finca Arbol bosque|-13921|52613|-250
+Finca Arbol bosque|-7364|52316|-250
+Finca Arbol frondoso|526|57299|-250
+Finca Arbol frondoso|8048|53129|-250
+Finca Arbol bosque|18253|57232|-250
+Finca Arbol bosque|26144|52270|-250
+Finca Arbol bosque|33765|53335|-250
+Finca Arbol frondoso|42201|54415|-250
+Finca Arbol bosque|48136|54320|-250
+Finca Arbol bosque|57743|56494|-250
+Finca Arbol bosque|65860|54223|-250
+Finca Arbol frondoso|72718|52567|-250
+Finca Arbol frondoso|-163578|-138474|7171
+Finca Arbol frondoso|-158723|-126563|8489
+Finca Arbol frondoso|-159993|-115416|10839
+Finca Arbol bosque|-157135|-98478|12866
+Finca Arbol frondoso|-163548|-77384|17352
+Finca Arbol bosque|-157042|-59347|15504
+Finca Arbol bosque|-163762|-52241|16489
+Finca Arbol bosque|-161415|-41152|15451
+Finca Arbol bosque|-163645|-33252|15373
+Finca Arbol frondoso|-157535|-17175|14016
+Finca Arbol frondoso|-157835|6696|13874
+Finca Arbol frondoso|-157578|11369|13909
+Finca Arbol bosque|-158826|24449|14362
+Finca Arbol bosque|-160044|32975|14849
+Finca Arbol frondoso|-161166|45757|15653
+Finca Arbol frondoso|-162997|54417|16470
+Finca Arbol bosque|-157044|65355|16783
+Finca Arbol bosque|-160781|83265|25388
+Finca Arbol bosque|-156053|88644|26877
+Finca Arbol frondoso|-163734|99382|34927
+Finca Arbol bosque|-162007|115860|45150
+Finca Arbol frondoso|-160326|122391|49462
+Finca Arbol frondoso|-157040|136426|59949
+Finca Arbol frondoso|-157442|148505|70919
+Finca Arbol bosque|-158469|155283|77700
+Finca Arbol frondoso|-157088|165304|87998
+Finca Arbol frondoso|-157472|178735|103514
+Finca Arbol bosque|-163660|187855|115570
+Finca Arbol frondoso|-148380|-137505|4247
+Finca Arbol frondoso|-146076|-126493|5470
+Finca Arbol frondoso|-149322|-118912|7490
+Finca Arbol bosque|-148859|-107930|9098
+Finca Arbol bosque|-147373|-93827|10811
+Finca Arbol frondoso|-148453|-75470|13775
+Finca Arbol bosque|-147913|-62431|13582
+Finca Arbol frondoso|-152054|-53332|14290
+Finca Arbol bosque|-147847|-41886|13334
+Finca Arbol bosque|-151995|-32761|13766
+Finca Arbol bosque|-149993|-22269|13355
+Finca Arbol bosque|-149340|-11204|13194
+Finca Arbol bosque|-150573|-28|13252
+Finca Arbol frondoso|-151403|14861|13398
+Finca Arbol frondoso|-146722|24939|13044
+Finca Arbol frondoso|-152035|36992|13870
+Finca Arbol frondoso|-148361|50738|13532
+Finca Arbol frondoso|-152701|54826|14457
+Finca Arbol bosque|-145812|70787|16083
+Finca Arbol frondoso|-148723|82212|21670
+Finca Arbol bosque|-150547|98227|30664
+Finca Arbol bosque|-148087|114537|40586
+Finca Arbol frondoso|-147350|127848|50592
+Finca Arbol frondoso|-148464|132747|54946
+Finca Arbol frondoso|-149485|142181|63545
+Finca Arbol frondoso|-145189|155462|75892
+Finca Arbol bosque|-148432|168978|91104
+Finca Arbol frondoso|-149427|178460|102428
+Finca Arbol bosque|-146753|192723|120544
+Finca Arbol bosque|-137083|-140621|1493
+Finca Arbol frondoso|-141414|-130044|3832
+Finca Arbol frondoso|-137968|-117651|4679
+Finca Arbol frondoso|-134817|-103438|5798
+Finca Arbol frondoso|-134152|-94811|6891
+Finca Arbol frondoso|-141579|-86708|10229
+Finca Arbol bosque|-141107|-76082|11752
+Finca Arbol bosque|-139822|-65871|11702
+Finca Arbol frondoso|-137004|-49954|11428
+Finca Arbol frondoso|-141419|-32550|12422
+Finca Arbol frondoso|-138187|-20788|12206
+Finca Arbol bosque|-136337|-5674|12196
+Finca Arbol bosque|-137066|4995|12257
+Finca Arbol frondoso|-138758|16161|12313
+Finca Arbol frondoso|-137053|37773|11744
+Finca Arbol bosque|-140723|45751|12169
+Finca Arbol frondoso|-138288|61880|11416
+Finca Arbol bosque|-136714|65817|12175
+Finca Arbol bosque|-137670|88029|21400
+Finca Arbol bosque|-141895|102334|30668
+Finca Arbol bosque|-140308|109535|34934
+Finca Arbol frondoso|-140961|126662|48071
+Finca Arbol frondoso|-136240|138119|57112
+Finca Arbol bosque|-135271|144201|62778
+Finca Arbol bosque|-141991|153978|73860
+Finca Arbol bosque|-137873|164956|85311
+Finca Arbol frondoso|-136764|176956|99457
+Finca Arbol bosque|-135998|191446|118038
+Finca Arbol frondoso|-128778|-139626|-41
+Finca Arbol frondoso|-127746|-128593|865
+Finca Arbol frondoso|-125085|-103508|3206
+Finca Arbol frondoso|-123611|-94293|4194
+Finca Arbol bosque|-123844|-87541|5352
+Finca Arbol frondoso|-124836|-72014|7981
+Finca Arbol frondoso|-130954|-64627|9688
+Finca Arbol bosque|-130909|-37380|10861
+Finca Arbol frondoso|-130556|-16967|11518
+Finca Arbol bosque|-130289|-8704|11645
+Finca Arbol bosque|-128043|1522|11487
+Finca Arbol frondoso|-127824|13339|11316
+Finca Arbol frondoso|-130582|24543|11305
+Finca Arbol bosque|-129917|32936|10906
+Finca Arbol frondoso|-128786|48314|10001
+Finca Arbol bosque|-123914|58472|8499
+Finca Arbol bosque|-125393|67269|10021
+Finca Arbol bosque|-127877|77565|14129
+Finca Arbol frondoso|-126017|92244|20439
+Finca Arbol frondoso|-130308|98864|25305
+Finca Arbol bosque|-130528|121952|41655
+Finca Arbol bosque|-128385|132615|50361
+Finca Arbol bosque|-126919|149766|66992
+Finca Arbol bosque|-125469|176179|97305
+Finca Arbol frondoso|-128795|187191|111763
+Finca Arbol frondoso|-114861|-138573|-2637
+Finca Arbol frondoso|-115698|-132975|-2045
+Finca Arbol bosque|-114671|-116106|-707
+Finca Arbol bosque|-113853|-108113|41
+Finca Arbol bosque|-115520|-99983|1474
+Finca Arbol bosque|-116903|-87759|3710
+Finca Arbol frondoso|-115761|-77193|5421
+Finca Arbol frondoso|-115502|-60541|6702
+Finca Arbol frondoso|-114063|-49325|7282
+Finca Arbol bosque|-117007|-42009|8359
+Finca Arbol frondoso|-119202|-33759|9289
+Finca Arbol frondoso|-118393|-22950|9784
+Finca Arbol frondoso|-112258|-4908|9440
+Finca Arbol bosque|-114106|3429|9747
+Finca Arbol bosque|-117132|13787|9979
+Finca Arbol frondoso|-115254|26132|9135
+Finca Arbol bosque|-117279|38841|8634
+Finca Arbol bosque|-114656|50844|7271
+Finca Arbol frondoso|-118274|54313|7680
+Finca Arbol bosque|-115074|68290|8143
+Finca Arbol bosque|-113316|82966|13062
+Finca Arbol bosque|-118349|92102|18522
+Finca Arbol frondoso|-114706|98646|21408
+Finca Arbol frondoso|-119835|116271|34632
+Finca Arbol bosque|-119727|127154|43615
+Finca Arbol bosque|-115092|133802|48756
+Finca Arbol bosque|-112985|153410|68558
+Finca Arbol bosque|-115690|165007|82330
+Finca Arbol bosque|-116842|179889|100859
+Finca Arbol bosque|-119088|187372|110891
+Finca Arbol frondoso|-101663|-138144|-4979
+Finca Arbol bosque|-108448|-128119|-3016
+Finca Arbol frondoso|-105398|-119098|-2739
+Finca Arbol frondoso|-101387|-110691|-2473
+Finca Arbol bosque|-102257|-95046|-206
+Finca Arbol bosque|-105426|-83047|2351
+Finca Arbol frondoso|-108325|-77227|3975
+Finca Arbol frondoso|-102163|-50098|5080
+Finca Arbol frondoso|-102986|-39186|6072
+Finca Arbol frondoso|-103379|-29280|6839
+Finca Arbol bosque|-103169|-21343|7252
+Finca Arbol frondoso|-102184|-10265|7472
+Finca Arbol frondoso|-103388|4927|7820
+Finca Arbol bosque|-102526|10002|7549
+Finca Arbol bosque|-107545|21163|8097
+Finca Arbol bosque|-101115|36767|5893
+Finca Arbol bosque|-108213|55880|5704
+Finca Arbol frondoso|-101425|66273|5129
+Finca Arbol bosque|-105716|83883|12058
+Finca Arbol frondoso|-102439|90377|14618
+Finca Arbol bosque|-103961|103681|22563
+Finca Arbol bosque|-101883|114840|30129
+Finca Arbol frondoso|-108608|123819|38536
+Finca Arbol frondoso|-101774|148179|60842
+Finca Arbol bosque|-104717|158481|72789
+Finca Arbol frondoso|-103541|171545|88091
+Finca Arbol bosque|-102459|180608|99266
+Finca Arbol bosque|-96737|-138089|-5808
+Finca Arbol bosque|-94339|-132725|-5733
+Finca Arbol bosque|-94334|-121199|-4623
+Finca Arbol bosque|-93473|-105404|-2862
+Finca Arbol frondoso|-97556|-96857|-1146
+Finca Arbol frondoso|-90196|-71179|1869
+Finca Arbol frondoso|-93902|-59071|3039
+Finca Arbol bosque|-96782|-48194|4256
+Finca Arbol frondoso|-97700|-43148|4784
+Finca Arbol frondoso|-91088|-31005|4182
+Finca Arbol bosque|-94021|-15182|5513
+Finca Arbol bosque|-94002|-9212|5659
+Finca Arbol frondoso|-94045|1839|5754
+Finca Arbol bosque|-93696|17097|5375
+Finca Arbol bosque|-91586|23118|4654
+Finca Arbol bosque|-92585|36043|4232
+Finca Arbol bosque|-94795|46986|3978
+Finca Arbol bosque|-94768|69756|5122
+Finca Arbol frondoso|-93483|76026|7083
+Finca Arbol bosque|-94375|92770|14778
+Finca Arbol bosque|-94529|112065|27027
+Finca Arbol frondoso|-94521|126109|38250
+Finca Arbol frondoso|-93075|149464|60607
+Finca Arbol bosque|-94642|155029|66950
+Finca Arbol frondoso|-92058|169142|82714
+Finca Arbol frondoso|-93446|182837|100123
+Finca Arbol bosque|-92689|190875|110506
+Finca Arbol frondoso|-80536|-136094|-8147
+Finca Arbol bosque|-80644|-131445|-7556
+Finca Arbol bosque|-85217|-104949|-3649
+Finca Arbol bosque|-81420|-93275|-2247
+Finca Arbol bosque|-85976|-84538|-440
+Finca Arbol bosque|-85922|-71053|1530
+Finca Arbol frondoso|-82244|-61916|1338
+Finca Arbol frondoso|-84870|-53419|1929
+Finca Arbol frondoso|-82914|-38489|1958
+Finca Arbol frondoso|-81892|-16241|2064
+Finca Arbol bosque|-86195|-5614|3449
+Finca Arbol bosque|-82431|3305|2299
+Finca Arbol frondoso|-79867|13128|1541
+Finca Arbol bosque|-81456|25681|1839
+Finca Arbol bosque|-83043|38860|1978
+Finca Arbol bosque|-84157|49487|1926
+Finca Arbol bosque|-81807|58985|1331
+Finca Arbol frondoso|-79793|72672|4258
+Finca Arbol bosque|-79375|82920|8434
+Finca Arbol frondoso|-85980|89788|12339
+Finca Arbol bosque|-86805|104883|21211
+Finca Arbol bosque|-86685|112445|26417
+Finca Arbol bosque|-83843|123400|34585
+Finca Arbol frondoso|-81341|132839|42367
+Finca Arbol bosque|-83856|154585|64285
+Finca Arbol bosque|-85469|178588|92709
+Finca Arbol bosque|-85359|192398|110643
+Finca Arbol bosque|-75765|-139229|-9280
+Finca Arbol frondoso|-75786|-116007|-6025
+Finca Arbol bosque|-75989|-108276|-4893
+Finca Arbol bosque|-68700|-98929|-3805
+Finca Arbol bosque|-74332|-83934|-1296
+Finca Arbol frondoso|-73588|-63210|34
+Finca Arbol bosque|-73779|-53240|76
+Finca Arbol bosque|-75346|6417|450
+Finca Arbol bosque|-75175|26784|385
+Finca Arbol bosque|-72677|65926|1113
+Finca Arbol frondoso|-75923|83842|8567
+Finca Arbol frondoso|-68606|89654|11138
+Finca Arbol frondoso|-69501|99627|16649
+Finca Arbol frondoso|-68133|115486|27261
+Finca Arbol bosque|-72478|123835|33675
+Finca Arbol bosque|-68195|132774|40851
+Finca Arbol frondoso|-72877|147547|54858
+Finca Arbol bosque|-70327|153409|60255
+Finca Arbol bosque|-74565|170530|80074
+Finca Arbol bosque|-75786|176873|88007
+Finca Arbol bosque|-70577|191769|105613
+Finca Arbol bosque|-62850|-142034|-10526
+Finca Arbol frondoso|-64073|-132725|-8895
+Finca Arbol bosque|-63588|-116988|-6156
+Finca Arbol bosque|-64100|-109737|-5010
+Finca Arbol bosque|-57577|-94025|-2045
+Finca Arbol bosque|-63318|-87374|-1900
+Finca Arbol frondoso|-59527|70431|2571
+Finca Arbol bosque|-61201|82828|8414
+Finca Arbol bosque|-62629|89758|11795
+Finca Arbol frondoso|-64363|100324|17610
+Finca Arbol bosque|-63904|112843|25773
+Finca Arbol bosque|-57145|133680|42051
+Finca Arbol bosque|-63879|144040|50993
+Finca Arbol bosque|-63271|155110|61738
+Finca Arbol frondoso|-58534|167503|74679
+Finca Arbol bosque|-64398|179882|89607
+Finca Arbol frondoso|-58529|191649|104132
+Finca Arbol bosque|-47479|-130654|-7897
+Finca Arbol bosque|-49658|-116318|-5094
+Finca Arbol bosque|-48391|-103175|-2711
+Finca Arbol frondoso|-51148|65713|761
+Finca Arbol frondoso|-48976|82301|9013
+Finca Arbol frondoso|-52571|89204|12344
+Finca Arbol frondoso|-51092|110480|25160
+Finca Arbol bosque|-46885|123987|34825
+Finca Arbol bosque|-49100|137624|45532
+Finca Arbol bosque|-48341|149838|56353
+Finca Arbol bosque|-46622|159361|65593
+Finca Arbol frondoso|-50236|170708|77824
+Finca Arbol bosque|-48825|180207|88856
+Finca Arbol frondoso|-48761|187361|97799
+Finca Arbol frondoso|-41781|-138125|-9453
+Finca Arbol bosque|-36697|-131208|-7877
+Finca Arbol frondoso|-41619|-115222|-4595
+Finca Arbol frondoso|-39026|-105974|-2860
+Finca Arbol frondoso|-39784|-99118|-1753
+Finca Arbol frondoso|-39422|-86471|-989
+Finca Arbol frondoso|-36439|66051|950
+Finca Arbol bosque|-38703|92661|14814
+Finca Arbol frondoso|-37779|103536|21206
+Finca Arbol frondoso|-38890|109544|24999
+Finca Arbol frondoso|-41040|123597|34676
+Finca Arbol frondoso|-35999|131868|40993
+Finca Arbol bosque|-42978|146367|53159
+Finca Arbol frondoso|-38375|157156|63295
+Finca Arbol frondoso|-38021|170804|77612
+Finca Arbol frondoso|-37256|177028|84736
+Finca Arbol bosque|-36958|193909|106075
+Finca Arbol bosque|-27144|-140757|-10068
+Finca Arbol frondoso|-24916|-131857|-8150
+Finca Arbol bosque|-24157|-114119|-4607
+Finca Arbol frondoso|-26844|-104139|-2726
+Finca Arbol frondoso|-24714|-99817|-2131
+Finca Arbol bosque|-28396|-81424|-904
+Finca Arbol frondoso|-26556|82077|9049
+Finca Arbol frondoso|-24851|90168|13170
+Finca Arbol bosque|-31226|105523|22394
+Finca Arbol bosque|-25317|114563|28116
+Finca Arbol bosque|-31129|122562|33919
+Finca Arbol frondoso|-25445|132986|41768
+Finca Arbol frondoso|-26857|149489|56012
+Finca Arbol frondoso|-30265|157538|63698
+Finca Arbol bosque|-28165|164290|70637
+Finca Arbol frondoso|-28101|179021|87230
+Finca Arbol bosque|-31951|187337|97450
+Finca Arbol frondoso|-18041|-140309|-10069
+Finca Arbol bosque|-18865|-126701|-7285
+Finca Arbol frondoso|-17310|-117642|-5639
+Finca Arbol bosque|-15312|-104506|-3522
+Finca Arbol bosque|-14278|-93797|-2062
+Finca Arbol frondoso|-15540|71157|2957
+Finca Arbol bosque|-17150|93608|14562
+Finca Arbol frondoso|-15575|101420|18995
+Finca Arbol frondoso|-18644|115087|28123
+Finca Arbol frondoso|-15223|120598|31840
+Finca Arbol frondoso|-19808|132788|41469
+Finca Arbol frondoso|-19611|142235|49455
+Finca Arbol frondoso|-18819|158959|65355
+Finca Arbol bosque|-19718|170122|77274
+Finca Arbol bosque|-13584|176532|85072
+Finca Arbol bosque|-19740|189366|100635
+Finca Arbol bosque|-6005|-138340|-9941
+Finca Arbol frondoso|-7067|-128935|-8293
+Finca Arbol bosque|-2841|-105096|-4816
+Finca Arbol frondoso|-7122|-96513|-3065
+Finca Arbol frondoso|-4268|79654|6285
+Finca Arbol frondoso|-4822|94888|14111
+Finca Arbol bosque|-3951|104457|19764
+Finca Arbol frondoso|-7835|111287|24656
+Finca Arbol bosque|-6106|120874|31403
+Finca Arbol bosque|-8622|136945|44616
+Finca Arbol frondoso|-7224|143241|50244
+Finca Arbol bosque|-3557|160814|67925
+Finca Arbol bosque|-9401|167932|75422
+Finca Arbol bosque|-8779|175161|83819
+Finca Arbol frondoso|-8042|188389|100375
+Finca Arbol bosque|4153|-139044|-10308
+Finca Arbol frondoso|4409|-121352|-7894
+Finca Arbol bosque|7999|-104417|-5843
+Finca Arbol bosque|2223|-98939|-4432
+Finca Arbol frondoso|1676|-83892|-2007
+Finca Arbol frondoso|7041|70034|1876
+Finca Arbol frondoso|1168|78628|5408
+Finca Arbol bosque|8762|87718|8876
+Finca Arbol bosque|6457|102080|17165
+Finca Arbol frondoso|2318|115576|26745
+Finca Arbol frondoso|6541|132631|40249
+Finca Arbol frondoso|2042|145394|52231
+Finca Arbol frondoso|8582|157677|65052
+Finca Arbol bosque|8497|169003|77907
+Finca Arbol frondoso|3324|178370|88789
+Finca Arbol frondoso|8213|193568|108985
+Finca Arbol bosque|14037|-142810|-10923
+Finca Arbol bosque|17551|-132179|-9926
+Finca Arbol bosque|17778|-119492|-8594
+Finca Arbol frondoso|17972|-103306|-6575
+Finca Arbol frondoso|17928|-87754|-3580
+Finca Arbol bosque|15860|67503|923
+Finca Arbol frondoso|16966|81110|5204
+Finca Arbol bosque|17826|91281|9898
+Finca Arbol bosque|18932|99146|14233
+Finca Arbol bosque|12371|115039|25486
+Finca Arbol bosque|12762|120027|29295
+Finca Arbol frondoso|16249|133409|40575
+Finca Arbol bosque|18228|144794|51584
+Finca Arbol frondoso|19311|154753|62152
+Finca Arbol bosque|16787|169082|78517
+Finca Arbol frondoso|15458|179029|90652
+Finca Arbol frondoso|17538|188145|102581
+Finca Arbol bosque|26088|-128649|-9855
+Finca Arbol bosque|24587|-118642|-8843
+Finca Arbol frondoso|25743|-109530|-7859
+Finca Arbol bosque|28805|-95657|-6069
+Finca Arbol bosque|25251|-84899|-3098
+Finca Arbol frondoso|25083|70608|1659
+Finca Arbol bosque|25920|76268|3244
+Finca Arbol bosque|29421|94099|10770
+Finca Arbol bosque|29952|103513|16384
+Finca Arbol bosque|25713|116971|26164
+Finca Arbol bosque|27012|120071|28595
+Finca Arbol bosque|25971|133342|40258
+Finca Arbol frondoso|24776|157717|65569
+Finca Arbol frondoso|30366|165670|74922
+Finca Arbol bosque|27213|179381|91763
+Finca Arbol bosque|24370|193008|109532
+Finca Arbol bosque|39444|-138301|-10710
+Finca Arbol bosque|40362|-128116|-9913
+Finca Arbol bosque|40423|-120384|-9219
+Finca Arbol frondoso|39298|-105076|-7512
+Finca Arbol frondoso|41434|-94153|-5791
+Finca Arbol frondoso|37686|-83714|-2890
+Finca Arbol bosque|39975|68662|1083
+Finca Arbol bosque|37072|92568|9840
+Finca Arbol frondoso|40892|98284|13106
+Finca Arbol frondoso|39722|126439|33879
+Finca Arbol bosque|37706|133476|40292
+Finca Arbol frondoso|37484|143634|50350
+Finca Arbol bosque|35737|156225|63984
+Finca Arbol frondoso|41137|168152|77914
+Finca Arbol frondoso|34858|187196|102076
+Finca Arbol frondoso|49921|-137897|-10573
+Finca Arbol frondoso|50474|-130734|-9924
+Finca Arbol frondoso|47023|-104217|-7154
+Finca Arbol bosque|50465|-97134|-5950
+Finca Arbol frondoso|46229|-84537|-3018
+Finca Arbol frondoso|52443|65031|201
+Finca Arbol frondoso|47806|79261|4198
+Finca Arbol bosque|47438|89763|8675
+Finca Arbol bosque|46440|103194|16332
+Finca Arbol bosque|48531|110095|21113
+Finca Arbol bosque|52930|124468|32554
+Finca Arbol bosque|49143|133028|40025
+Finca Arbol frondoso|51058|143112|49860
+Finca Arbol frondoso|46015|157064|64856
+Finca Arbol bosque|49068|167552|76981
+Finca Arbol bosque|48802|182365|95422
+Finca Arbol bosque|50406|190514|106031
+Finca Arbol bosque|60391|-140701|-10668
+Finca Arbol frondoso|60310|-125455|-8934
+Finca Arbol bosque|62126|-119060|-8025
+Finca Arbol frondoso|60591|-107892|-6679
+Finca Arbol frondoso|59545|-95077|-4920
+Finca Arbol frondoso|58880|-88047|-3413
+Finca Arbol frondoso|59000|67162|858
+Finca Arbol bosque|56311|78247|4272
+Finca Arbol bosque|56895|91603|10265
+Finca Arbol bosque|60178|111461|22897
+Finca Arbol bosque|63440|127993|36103
+Finca Arbol bosque|58642|134268|41452
+Finca Arbol bosque|61961|146596|53422
+Finca Arbol bosque|60525|158138|65674
+Finca Arbol frondoso|60933|165022|73438
+Finca Arbol frondoso|60950|179256|90608
+Finca Arbol frondoso|62156|193500|109082
+Finca Arbol frondoso|72624|-138300|-10085
+Finca Arbol bosque|70935|-126913|-8470
+Finca Arbol frondoso|70517|-116672|-7004
+Finca Arbol frondoso|68655|-106433|-5688
+Finca Arbol bosque|68425|-98438|-4530
+Finca Arbol frondoso|70424|-88569|-2765
+Finca Arbol bosque|71746|71621|2639
+Finca Arbol frondoso|70330|81267|6490
+Finca Arbol frondoso|67860|92496|11800
+Finca Arbol bosque|70963|105104|19626
+Finca Arbol bosque|74662|138779|46075
+Finca Arbol frondoso|67306|145936|52759
+Finca Arbol frondoso|74841|153694|60471
+Finca Arbol frondoso|67742|170701|79621
+Finca Arbol frondoso|69671|175778|85544
+Finca Arbol frondoso|71083|189596|102927
+Finca Arbol bosque|83170|-143637|-9335
+Finca Arbol frondoso|83401|-132327|-7187
+Finca Arbol frondoso|80806|-115649|-4897
+Finca Arbol frondoso|80503|-104518|-3183
+Finca Arbol frondoso|78938|-92889|-1866
+Finca Arbol frondoso|78649|-82730|-755
+Finca Arbol frondoso|78853|-71863|186
+Finca Arbol frondoso|81152|-44264|466
+Finca Arbol frondoso|80212|-32635|229
+Finca Arbol frondoso|82561|-18740|424
+Finca Arbol bosque|78582|-11138|-69
+Finca Arbol frondoso|80480|602|147
+Finca Arbol bosque|84715|12726|575
+Finca Arbol frondoso|80759|27436|272
+Finca Arbol frondoso|81925|39690|545
+Finca Arbol bosque|78055|47307|-54
+Finca Arbol frondoso|80617|57379|480
+Finca Arbol bosque|83472|68396|3524
+Finca Arbol frondoso|80901|81269|8524
+Finca Arbol bosque|81429|89259|12645
+Finca Arbol bosque|84945|102137|20970
+Finca Arbol frondoso|81788|131749|41456
+Finca Arbol bosque|85617|153413|61839
+Finca Arbol bosque|80242|168444|77037
+Finca Arbol bosque|83155|176960|87262
+Finca Arbol frondoso|85281|193931|109112
+Finca Arbol bosque|90773|-126894|-4499
+Finca Arbol frondoso|89460|-121132|-3691
+Finca Arbol frondoso|94406|-109686|-417
+Finca Arbol frondoso|91296|-82990|2781
+Finca Arbol frondoso|90623|-70611|3121
+Finca Arbol bosque|92921|-65011|3506
+Finca Arbol frondoso|95341|-53826|3409
+Finca Arbol bosque|94188|-43633|2536
+Finca Arbol frondoso|89971|-30852|1386
+Finca Arbol bosque|92592|-15085|1063
+Finca Arbol frondoso|89344|-7090|801
+Finca Arbol frondoso|94402|3273|913
+Finca Arbol frondoso|92686|14639|1056
+Finca Arbol bosque|93631|21443|1317
+Finca Arbol frondoso|92108|38709|1965
+Finca Arbol frondoso|94088|48042|2795
+Finca Arbol bosque|96744|57149|3903
+Finca Arbol frondoso|96609|67189|6178
+Finca Arbol bosque|90858|90974|16075
+Finca Arbol frondoso|89491|103201|22832
+Finca Arbol bosque|89231|110161|27229
+Finca Arbol frondoso|92201|122229|36401
+Finca Arbol frondoso|90316|131712|43299
+Finca Arbol bosque|95626|146364|56872
+Finca Arbol bosque|91753|191725|106783
+Finca Arbol bosque|106096|-142160|-4763
+Finca Arbol frondoso|105820|-130559|-2193
+Finca Arbol bosque|104024|-114293|829
+Finca Arbol bosque|102071|-109229|1372
+Finca Arbol frondoso|106445|-95042|4538
+Finca Arbol frondoso|107829|-72247|7031
+Finca Arbol frondoso|103030|-66008|5734
+Finca Arbol bosque|102906|-54304|4860
+Finca Arbol frondoso|100931|-42366|3587
+Finca Arbol frondoso|102827|-33087|3238
+Finca Arbol frondoso|104785|-21634|2869
+Finca Arbol frondoso|103580|-6457|2152
+Finca Arbol bosque|100632|3500|1669
+Finca Arbol frondoso|106757|13104|2842
+Finca Arbol frondoso|103176|24560|2761
+Finca Arbol frondoso|107210|39268|4450
+Finca Arbol bosque|102433|48218|4301
+Finca Arbol frondoso|106735|68232|8607
+Finca Arbol bosque|103817|77236|12037
+Finca Arbol frondoso|102092|87238|16675
+Finca Arbol bosque|103279|98617|23275
+Finca Arbol frondoso|106161|115718|34733
+Finca Arbol frondoso|105961|135666|49599
+Finca Arbol frondoso|102692|144208|56226
+Finca Arbol bosque|104699|157649|69135
+Finca Arbol frondoso|102610|168410|79988
+Finca Arbol frondoso|102281|189461|105157
+Finca Arbol frondoso|113167|-138241|-2604
+Finca Arbol bosque|112918|-128832|-555
+Finca Arbol bosque|117044|-105031|4718
+Finca Arbol bosque|112501|-96176|5432
+Finca Arbol bosque|111251|-83314|6907
+Finca Arbol bosque|111923|-74038|7848
+Finca Arbol frondoso|113186|-59932|7141
+Finca Arbol bosque|111316|-55385|6468
+Finca Arbol bosque|111591|-41679|5431
+Finca Arbol bosque|117911|-32473|5980
+Finca Arbol frondoso|114757|-16792|4496
+Finca Arbol bosque|111358|-7054|3529
+Finca Arbol frondoso|111513|6327|3547
+Finca Arbol bosque|111812|10479|3694
+Finca Arbol frondoso|116231|26024|5248
+Finca Arbol bosque|112643|50746|6338
+Finca Arbol frondoso|117765|66586|9810
+Finca Arbol frondoso|114130|82340|16343
+Finca Arbol bosque|114705|92572|21834
+Finca Arbol frondoso|113304|102897|27659
+Finca Arbol bosque|111813|112794|33758
+Finca Arbol bosque|112402|134943|50164
+Finca Arbol bosque|118410|146245|60865
+Finca Arbol frondoso|113021|157265|70260
+Finca Arbol bosque|111300|177459|91792
+Finca Arbol bosque|114620|186208|103188
+Finca Arbol bosque|126500|-140945|-931
+Finca Arbol frondoso|129638|-132888|1174
+Finca Arbol frondoso|126426|-114975|4153
+Finca Arbol bosque|126841|-110266|5031
+Finca Arbol frondoso|127375|-95845|7394
+Finca Arbol frondoso|127788|-86112|8788
+Finca Arbol bosque|125047|-77805|9499
+Finca Arbol bosque|126555|-66924|9656
+Finca Arbol frondoso|127463|-53972|9129
+Finca Arbol bosque|126344|-40788|8194
+Finca Arbol bosque|127427|-26492|7727
+Finca Arbol frondoso|129798|-21346|8111
+Finca Arbol frondoso|123003|-9634|6125
+Finca Arbol bosque|125170|4533|6587
+Finca Arbol frondoso|128644|13630|7616
+Finca Arbol bosque|129482|22166|8059
+Finca Arbol frondoso|122063|33039|6870
+Finca Arbol bosque|122370|48862|7938
+Finca Arbol bosque|125104|58817|9018
+Finca Arbol bosque|128393|66524|11327
+Finca Arbol bosque|122003|78201|15460
+Finca Arbol frondoso|122549|87876|20345
+Finca Arbol bosque|122017|105736|30634
+Finca Arbol frondoso|125408|109862|33694
+Finca Arbol frondoso|129006|126017|45660
+Finca Arbol bosque|127366|137473|54717
+Finca Arbol frondoso|127727|154515|70434
+Finca Arbol frondoso|129156|171294|88592
+Finca Arbol frondoso|122110|186507|105245
+Finca Arbol bosque|138049|-136400|1752
+Finca Arbol frondoso|136003|-130804|2438
+Finca Arbol bosque|139669|-114178|5612
+Finca Arbol bosque|135672|-103120|7025
+Finca Arbol frondoso|139416|-92811|8867
+Finca Arbol bosque|137665|-72437|11188
+Finca Arbol frondoso|135567|-59137|10615
+Finca Arbol bosque|135317|-50695|10320
+Finca Arbol bosque|137829|-42150|10559
+Finca Arbol bosque|135221|-32851|9759
+Finca Arbol frondoso|137724|-17346|10074
+Finca Arbol bosque|137818|-11995|10043
+Finca Arbol bosque|137339|395|9854
+Finca Arbol bosque|134615|28513|9499
+Finca Arbol bosque|136969|48810|10557
+Finca Arbol bosque|136861|57769|10771
+Finca Arbol frondoso|139361|67635|13121
+Finca Arbol bosque|134911|83447|19371
+Finca Arbol bosque|139208|93991|25217
+Finca Arbol bosque|139786|101849|29873
+Finca Arbol frondoso|133089|111682|35701
+Finca Arbol bosque|136658|135735|54640
+Finca Arbol bosque|140041|148717|67161
+Finca Arbol frondoso|140064|158226|76834
+Finca Arbol frondoso|134072|168294|86395
+Finca Arbol frondoso|135790|175552|95230
+Finca Arbol bosque|139325|191264|116038
+Finca Arbol bosque|145454|-139279|2418
+Finca Arbol bosque|147707|-127769|4379
+Finca Arbol bosque|145125|-121696|4971
+Finca Arbol frondoso|151513|-84869|11003
+Finca Arbol bosque|148167|-76273|12072
+Finca Arbol frondoso|151876|-63782|12870
+Finca Arbol frondoso|150794|-52915|12951
+Finca Arbol bosque|144398|-37543|11887
+Finca Arbol frondoso|147274|-30239|12577
+Finca Arbol bosque|151685|-18796|13834
+Finca Arbol frondoso|149452|-11848|13296
+Finca Arbol bosque|150386|15346|13525
+Finca Arbol bosque|149126|25533|13081
+Finca Arbol bosque|147782|37186|12629
+Finca Arbol bosque|145322|82311|19724
+Finca Arbol bosque|145555|94989|26237
+Finca Arbol bosque|148893|114786|39282
+Finca Arbol frondoso|144540|123673|45632
+Finca Arbol frondoso|147857|131403|52437
+Finca Arbol frondoso|148689|146363|66445
+Finca Arbol frondoso|146493|156000|75880
+Finca Arbol frondoso|148603|169969|91977
+Finca Arbol frondoso|151191|179679|104443
+Finca Arbol frondoso|146197|193003|120346
+Finca Arbol bosque|157453|-131850|5123
+Finca Arbol frondoso|160464|-116599|7243
+Finca Arbol bosque|155173|-106963|7972
+Finca Arbol bosque|159253|-97119|9753
+Finca Arbol bosque|155600|-86092|11161
+Finca Arbol frondoso|156060|-70356|13217
+Finca Arbol frondoso|162889|-62124|14468
+Finca Arbol bosque|159446|-42221|14914
+Finca Arbol bosque|160208|-26471|15773
+Finca Arbol frondoso|157316|-17640|15329
+Finca Arbol bosque|162547|-8314|16861
+Finca Arbol bosque|155506|16081|14890
+Finca Arbol frondoso|155471|26632|14634
+Finca Arbol frondoso|158412|36760|14948
+Finca Arbol frondoso|162730|45578|15370
+Finca Arbol frondoso|155363|56593|13579
+Finca Arbol frondoso|159201|68245|15707
+Finca Arbol frondoso|160899|78987|19758
+Finca Arbol bosque|158784|101311|31014
+Finca Arbol bosque|158021|116758|41641
+Finca Arbol frondoso|157889|123305|46824
+Finca Arbol frondoso|156419|137970|59612
+Finca Arbol bosque|159552|149027|71166
+Finca Arbol bosque|155859|159392|81606
+Finca Arbol bosque|156766|165432|88682
+Finca Arbol bosque|157866|182563|109892
+Finca Arbol bosque|157759|187872|116762

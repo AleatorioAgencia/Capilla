@@ -1,0 +1,63 @@
+154632|F|Finca - Cesped
+154640|F|Finca - Concreto anden
+154648|F|Finca - Concreto anden
+154656|F|Finca - Concreto anden
+154667|F|Finca - Concreto anden
+154682|F|Finca - Tierra camino
+154699|F|Finca - Concreto anden
+154711|F|Finca - Concreto anden
+154721|F|Finca - Tierra camino
+154730|F|Finca - Concreto anden
+154738|F|Finca - Concreto anden
+154747|F|Finca - Concreto anden
+154755|F|Finca - Concreto anden
+154763|F|Finca - Concreto anden
+154771|F|Finca - Concreto anden
+154779|F|Finca - Concreto anden
+154788|F|Finca - Concreto anden
+154796|F|Finca - Blanco
+154804|F|Finca - Blanco
+154813|F|Finca - Blanco
+154833|F|Finca - Blanco
+154853|F|Finca - Blanco
+154873|F|Finca - Agua
+154879|W|Finca - Estuco crema
+154882|W|Finca - Estuco crema
+154885|W|Finca - Estuco crema
+154888|W|Finca - Estuco crema
+154891|W|Finca - Blanco
+154892|W|Finca - Blanco
+154893|W|Finca - Blanco
+154894|W|Finca - Blanco
+154895|W|Finca - Blanco
+154896|W|Finca - Blanco
+154897|W|Finca - Blanco
+154898|W|Finca - Blanco
+154899|W|Finca - Blanco
+154900|W|Finca - Blanco
+154901|W|Finca - Blanco
+154902|W|Finca - Blanco
+154903|W|Finca - Blanco
+154904|W|Finca - Blanco
+154905|W|Finca - Blanco
+154906|W|Finca - Blanco
+154907|W|Finca - Blanco
+154908|W|Finca - Blanco
+154909|W|Finca - Blanco
+154910|W|Finca - Blanco
+154911|W|Finca - Blanco
+154912|W|Finca - Blanco
+154913|W|Finca - Blanco
+154914|W|Finca - Blanco
+154915|W|Finca - Blanco
+154916|W|Finca - Blanco
+154917|W|Finca - Blanco
+154918|W|Finca - Blanco
+154919|W|Finca - Blanco
+154920|W|Finca - Blanco
+154921|W|Finca - Blanco
+154922|W|Finca - Blanco
+154923|W|Finca - Blanco
+154924|W|Finca - Blanco
+154925|W|Finca - Blanco
+154926|W|Finca - Blanco

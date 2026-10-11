@@ -1,0 +1,13 @@
+Finca - Cesped|Prism-840|92,140,52
+Finca - Concreto anden|Concrete-017|175,172,165
+Finca - Tierra camino|Generic-020|140,110,80
+Finca - Agua|Prism-236|60,95,70
+Finca - Estuco crema|Prism-814|228,218,190
+Finca - Blanco|Concrete-019|240,240,236
+Finca - Lamina verde|Prism-098|90,130,105
+Finca - Teja roja|Prism-2058|150,60,45
+Finca - Lamina gris|Prism-2056|130,132,135
+Finca - Follaje|Paint-037|55,95,40
+Finca - Follaje claro|Paint-038|150,170,90
+Finca - Buganvilla|Prism-091|190,50,150
+Finca - Tronco|Wood-010|90,65,45

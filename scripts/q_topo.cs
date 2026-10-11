@@ -1,0 +1,1 @@
+return new FilteredElementCollector(document).OfClass(typeof(Toposolid)).ToElements().Select(t => t.Id + " " + t.get_BoundingBox(null).Max.Z*0.3048).Aggregate("", (a,b)=>a+b+"; ");

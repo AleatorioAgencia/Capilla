@@ -1,0 +1,8 @@
+Finca Arbol frondoso|cyl:0.2,0,3,Tronco;ell:3.5,3,6,Follaje
+Finca Arbol claro|cyl:0.15,0,2,Tronco;ell:2.6,2.3,4.3,Follaje claro
+Finca Pino|cyl:0.25,0,17,Tronco;cone:3.2,2,8,Follaje;cone:2.5,6,12,Follaje;cone:1.6,10,15.5,Follaje;cone:0.9,14,18,Follaje
+Finca Cipres|cyl:0.12,0,0.8,Tronco;ell:0.7,3,3.6,Follaje
+Finca Palma|cyl:0.15,0,5,Tronco;ell:2.6,0.8,5.3,Follaje
+Finca Arbusto|ell:1.1,0.8,0.6,Follaje
+Finca Buganvilla|ell:1.4,1.1,1,Buganvilla
+Finca Arbol bosque|cyl:0.4,0,9,Tronco;ell:6,6,13,Follaje
