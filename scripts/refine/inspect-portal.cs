@@ -1,0 +1,2 @@
+if(!document.PathName.EndsWith("Capilla_conjunto_corregido.rvt"))throw new Exception("Documento inesperado");
+return new FilteredElementCollector(document).WhereElementIsNotElementType().Where(e=>e is Wall||e is Floor||e is RoofBase).ToList().Where(e=>{var b=e.get_BoundingBox(null); if(b==null)return false;var c=(b.Min+b.Max)*.1524;return c.X>-44&&c.X<-32&&c.Y>-37&&c.Y<-25;}).Select(e=>new{id=e.Id.Value,type=e.GetType().Name,name=e.Name,comment=e.get_Parameter(BuiltInParameter.ALL_MODEL_INSTANCE_COMMENTS)?.AsString()}).ToList();

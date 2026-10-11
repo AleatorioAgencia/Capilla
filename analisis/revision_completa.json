@@ -1,0 +1,95 @@
+{
+  "video": "../videos/IMG_9399.MOV",
+  "durationSeconds": 665.27,
+  "sourceFrameCount": 19942,
+  "indexedFrameCount": 19942,
+  "visualReview": {
+    "method": "665 capturas a un segundo que cubren 00:00–11:04, con ampliaciones de detalles. No se afirma inspección visual individual de los 19.942 fotogramas.",
+    "contactSheets": 23,
+    "audioTranscribed": false
+  },
+  "userClarifications": [
+    "Inicio en los tanques; gallinero al lado cuesta abajo; después cabaña pequeña.",
+    "Hay tres lagos, casa del perro y kiosco inferior.",
+    "El lago visible hacia 07:25 está incluido en los tres."
+  ],
+  "findings": [
+    {
+      "at": 0,
+      "end": 25,
+      "name": "Tanques de agua",
+      "seen": "Conjunto de depósitos negros, depósito de obra y tuberías blancas sobre una plataforma en la parte alta.",
+      "change": "Añadidos arriba del gallinero. Tres depósitos negros y uno de obra como aproximación visual."
+    },
+    {
+      "at": 26,
+      "end": 90,
+      "name": "Gallinero",
+      "seen": "Nave larga con malla, postes rústicos, zócalo bajo y cubierta verde; a poca distancia cuesta abajo de los tanques.",
+      "change": "Sustituido el volumen genérico por nave abierta de malla. Uso confirmado por el propietario."
+    },
+    {
+      "at": 109,
+      "end": 212,
+      "name": "Cabaña pequeña",
+      "seen": "Muros blancos, cubierta verde, corredor rojo, postes y baranda verdes, canalón blanco y zona de lavado lateral.",
+      "change": "Conservados muros y huecos base; revisados cubierta y corredor. Planta interior aún sin reconstruir."
+    },
+    {
+      "at": 221,
+      "end": 231,
+      "name": "Casa del perro",
+      "seen": "Pequeña caseta de cubierta roja en un recinto de cerca blanca, visible también en el dron.",
+      "change": "Sustituida la interpretación anterior como santuario; volumen y altura reducidos. Identificación basada en la aclaración del propietario y forma visible."
+    },
+    {
+      "at": 251,
+      "end": 296,
+      "name": "Lagos 1 y 2 superiores",
+      "seen": "Dos vasos independientes: uno grande ovalado y otro menor de perímetro curvo. Se ven juntos en 04:11. Las vistas posteriores desde otro lado no son un cuarto lago.",
+      "change": "Añadidos dos vasos con borde y agua; sendero desviado por su costado. Ubicación y niveles estimados."
+    },
+    {
+      "at": 262,
+      "end": 268,
+      "name": "Cobertizo junto a los lagos",
+      "seen": "Cubierta verde pronunciada, frente abierto y dependencias con puertas verdes al fondo.",
+      "change": "Sustituido el volumen cerrado genérico. Uso específico sin confirmar."
+    },
+    {
+      "at": 440,
+      "end": 465,
+      "name": "Lago 3 inferior",
+      "seen": "Vaso de agua aproximadamente rectangular con esquinas suavizadas, al lado del kiosco.",
+      "change": "Incluido como tercer lago por confirmación expresa del propietario. La plataforma circular clara próxima está seca y se representa aparte."
+    },
+    {
+      "at": 469,
+      "end": 473,
+      "name": "Kiosco inferior",
+      "seen": "Pabellón abierto, cubierta verde poligonal, postes, piso rojo y bancos claros.",
+      "change": "Sustituido el antiguo volumen etiquetado como invernadero por kiosco octagonal abierto."
+    },
+    {
+      "at": 480,
+      "end": 498,
+      "name": "Portada de acceso",
+      "seen": "Dos pilares de ladrillo y cubierta roja sobre la vía de dos huellas.",
+      "change": "Sustituido el volumen cerrado por pilares de ladrillo con juntas, muros laterales escalonados y cubierta de teja sobre el paso. Portón lateral aún pendiente."
+    },
+    {
+      "at": 510,
+      "end": 665,
+      "name": "Casa principal y regreso",
+      "seen": "Escalinata frontal, corredor envolvente, carpintería rojiza, techo de madera, zona de estar, breve vista de sala y pasillo.",
+      "change": "Se conservan las mejoras de la revisión anterior. La distribución interior completa y proporciones exactas siguen pendientes."
+    }
+  ],
+  "model": "../revit/Capilla_conjunto_corregido.rvt",
+  "limitations": [
+    "Escala, distancias, orientación y cotas estimadas.",
+    "Geometría de revisión visual; no levantamiento métrico.",
+    "Interiores completos y portón lateral de acceso pendientes.",
+    "La comprobación visual detallada no equivale a examinar individualmente todos los fotogramas del original."
+  ]
+}

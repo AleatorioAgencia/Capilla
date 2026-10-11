@@ -1,0 +1,25 @@
+{
+  "video": "C:\\Users\\admin\\Capilla\\videos\\IMG_9399.MOV",
+  "duration_seconds": 665.27,
+  "source_bytes": 694851004,
+  "resolution_encoded": [1920,1080],
+  "display_orientation": "vertical",
+  "review": "Muestreo visual cada 15 segundos del recorrido completo y cada 3 segundos entre 08:45 y 09:45. No se ha transcrito el audio ni confirmado una planta interior completa.",
+  "sheets": [
+    {"file":"contacto_01.jpg","first_sample_seconds":0,"interval_seconds":15,"order":"izquierda a derecha, arriba abajo"},
+    {"file":"contacto_02.jpg","first_sample_seconds":225,"interval_seconds":15,"order":"izquierda a derecha, arriba abajo"},
+    {"file":"contacto_03.jpg","first_sample_seconds":450,"interval_seconds":15,"order":"izquierda a derecha, arriba abajo"},
+    {"file":"vivienda_0845_0942.jpg","first_sample_seconds":525,"interval_seconds":3,"order":"izquierda a derecha, arriba abajo"}
+  ],
+  "observations": [
+    {"period":"00:00-01:15","visible":"Depositos negros junto a cerramiento; construccion auxiliar con postes rusticos, malla y cubierta de laminas; terreno inclinado.","pending":"Situar elementos mediante continuidad del recorrido y comparacion con dron."},
+    {"period":"01:45-03:15","visible":"Vivienda blanca con cubierta verde a dos aguas, barandas verdes, piso exterior rojo, canalon y bajante.","pending":"Identificar edificio equivalente en el modelo antes de cambiar geometria."},
+    {"period":"03:45-04:30","visible":"Estanque de borde curvo y pabellon abierto con cubierta verde pronunciada a dos aguas.","pending":"Corregir tipo de cubierta auxiliar y contorno del estanque tras ubicarlo."},
+    {"period":"05:15-07:00","visible":"Vivienda amarilla con corredor y cubierta de pendiente baja; caminos, jardines, arboles y arbustos separados.","pending":"Revisar relaciones de posicion, pendientes y proporciones."},
+    {"period":"07:30-08:30","visible":"Estanque, acceso con portico de ladrillo y cubierta rojiza; escalinata frontal larga con bordes vegetales.","pending":"Sustituir interpretacion de acceso como rampa continua por tramos escalonados donde se confirma visualmente."},
+    {"period":"08:45-09:45","visible":"Corredor de vivienda principal con baldosa terracota rectangular, baranda de balaustres torneados oscuros, techo inclinado de tablas de madera y vigas expuestas, carpinteria rojiza y rejas, columnas con acabado de ladrillo, hamaca y sofa. Vista breve de sala-comedor con techo de madera a dos aguas.","pending":"Afilar acabados y componentes del corredor; planta completa, dormitorios y banos no confirmados por este muestreo."}
+  ],
+  "scale": "Estimada: el usuario no dispone de medidas reales.",
+  "revit_modified_this_review": false,
+  "blocker": "C: tenia aproximadamente 43 MB libres. Fallo la copia del video por falta de espacio. Se requiere espacio para nueva version y temporales de Revit; se solicito liberar al menos 2 GB. Original del video intacto."
+}

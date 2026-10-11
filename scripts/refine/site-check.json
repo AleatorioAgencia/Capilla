@@ -1,0 +1,194 @@
+{
+  "path": "C:\\Users\\admin\\.codex\\.chatgpt-projects\\g-p-6acadee8e81c8191910d9dd6cf16b614\\Capilla\\revit\\Capilla_conjunto_corregido.rvt",
+  "elements": 4720,
+  "detailElements": 220,
+  "plants": 186,
+  "warnings": [
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "count": 3
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "count": 2
+    },
+    {
+      "message": "Solape de suelos y sólidos topográficos resaltados.",
+      "count": 2
+    }
+  ],
+  "walls": [
+    {
+      "id": 154879,
+      "min": -8.585704806956876e-32,
+      "max": 3.9195000000000007
+    },
+    {
+      "id": 154882,
+      "min": 0,
+      "max": 3.3329999999999997
+    },
+    {
+      "id": 154885,
+      "min": 0,
+      "max": 3.333
+    },
+    {
+      "id": 154888,
+      "min": 0,
+      "max": 3.3329999999999997
+    },
+    {
+      "id": 154891,
+      "min": 2.537066013104038,
+      "max": 5.832066013104038
+    },
+    {
+      "id": 154892,
+      "min": 2.537066013104038,
+      "max": 6.3270660131040355
+    },
+    {
+      "id": 154893,
+      "min": 2.537066013104038,
+      "max": 5.546066013104036
+    },
+    {
+      "id": 154894,
+      "min": 2.537066013104038,
+      "max": 6.3270660131040355
+    },
+    {
+      "id": 154895,
+      "min": 0.5013717968207009,
+      "max": 3.6649954000723426
+    },
+    {
+      "id": 154896,
+      "min": 0.5013717968207009,
+      "max": 5.240697680829458
+    },
+    {
+      "id": 154897,
+      "min": 0.5013717968207009,
+      "max": 3.664995400072343
+    },
+    {
+      "id": 154898,
+      "min": 0.5013717968207009,
+      "max": 5.240697680829458
+    },
+    {
+      "id": 154899,
+      "min": 1.520070167538586,
+      "max": 4.483693770790227
+    },
+    {
+      "id": 154900,
+      "min": 1.520070167538586,
+      "max": 5.655369825712184
+    },
+    {
+      "id": 154901,
+      "min": 1.520070167538586,
+      "max": 4.48369377079023
+    },
+    {
+      "id": 154902,
+      "min": 1.520070167538586,
+      "max": 5.655369825712184
+    }
+  ],
+  "roofs": [
+    {
+      "id": 155386,
+      "min": 3.301371796820701,
+      "max": 5.3755145236641555
+    },
+    {
+      "id": 155403,
+      "min": 4.120070167538587,
+      "max": 5.790186668546883
+    },
+    {
+      "id": 163468,
+      "min": 3.08,
+      "max": 4.766513644498352
+    },
+    {
+      "id": 165666,
+      "min": 8.886515301085646,
+      "max": 9.625524159044453
+    },
+    {
+      "id": 165723,
+      "min": 5.337066013104037,
+      "max": 6.455055270465737
+    },
+    {
+      "id": 165762,
+      "min": 5.200098777705938,
+      "max": 5.992684533229395
+    },
+    {
+      "id": 166045,
+      "min": 8.483876310499795,
+      "max": 10.448646968507298
+    },
+    {
+      "id": 166072,
+      "min": -0.6504287414575556,
+      "max": -0.0849249100961723
+    }
+  ],
+  "views": [
+    {
+      "id": 163179,
+      "name": "CAPILLA - 01 Conjunto"
+    },
+    {
+      "id": 164904,
+      "name": "CAPILLA - 02 Casa y jardin"
+    },
+    {
+      "id": 164915,
+      "name": "CAPILLA - 03 Corredor"
+    },
+    {
+      "id": 164926,
+      "name": "CAPILLA - 04 Implantacion"
+    },
+    {
+      "id": 165265,
+      "name": "CAPILLA - Presentacion con sombras"
+    },
+    {
+      "id": 165309,
+      "name": "CAPILLA - 05 Dron"
+    },
+    {
+      "id": 165545,
+      "name": "CAPILLA - 06 Acceso recorrido"
+    },
+    {
+      "id": 165556,
+      "name": "CAPILLA - 07 Corredor recorrido"
+    },
+    {
+      "id": 165863,
+      "name": "CAPILLA - 08 Tanques gallinero cabana"
+    },
+    {
+      "id": 165874,
+      "name": "CAPILLA - 09 Lagos superiores y caseta"
+    },
+    {
+      "id": 165885,
+      "name": "CAPILLA - 10 Lago y kiosco inferior"
+    },
+    {
+      "id": 166091,
+      "name": "CAPILLA - 11 Portada de acceso"
+    }
+  ]
+}

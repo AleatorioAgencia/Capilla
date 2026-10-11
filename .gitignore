@@ -1,0 +1,15 @@
+# Local caches and generated dependencies
+node_modules/
+.npm-cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Local credentials and private environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Revit recovery copies, project backups and media are intentionally versioned.

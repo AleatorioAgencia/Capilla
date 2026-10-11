@@ -1,0 +1,53 @@
+{
+  "model": "revit/Capilla_detallada.rvt",
+  "base": "revit/Capilla.rvt",
+  "sourceVideo": "videos/0fba54e2-e424-4ec7-be8d-d27c92070f5b.MP4",
+  "sourceVideoSeconds": 21.31,
+  "sourceVideoResolution": "1280x720",
+  "referenceFrames": "fotogramas/dron1",
+  "basis": "Reconstruccion visual exterior con escala y cotas estimadas; sin medidas reales disponibles",
+  "originalSHA256": "94F3E238CA04B9A07DED1EA9A30BD88057CD43473ED0746AA1AF5C73A764C06D",
+  "nativeElements": [
+    "Muros",
+    "Cubiertas",
+    "Puertas y ventanas",
+    "Suelos",
+    "Toposolido"
+  ],
+  "directShapeElements": [
+    "Vegetacion",
+    "Barandas y postes del corredor",
+    "Juntas y remates de cubierta",
+    "Zocalo de piedra",
+    "Cerramientos",
+    "Jardineras",
+    "Mobiliario exterior",
+    "Vehiculos de referencia"
+  ],
+  "detailElementCount": 203,
+  "presentationViews": 5,
+  "remainingRevitWarnings": [
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "count": 4
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "count": 2
+    }
+  ],
+  "limitations": [
+    "No es un levantamiento metrico ni topografico",
+    "Interiores y zonas ocultas no reconstruidos por falta de evidencia",
+    "Vegetacion procedimental aproximada",
+    "Los pavimentos inclinados conservan 4 avisos de espesor y 2 de solape; no usar sus cantidades sin revision"
+  ],
+  "stageReports": "scripts/refine/result-*.json",
+  "previews": [
+    "detalle - Vista 3D - CAPILLA - 01 Conjunto.png",
+    "detalle - Vista 3D - CAPILLA - 02 Casa y jardin.png",
+    "detalle - Vista 3D - CAPILLA - 03 Corredor.png",
+    "detalle - Vista 3D - CAPILLA - 04 Implantacion.png",
+    "detalle - Vista 3D - CAPILLA - 05 Dron.png"
+  ]
+}

@@ -1,0 +1,10 @@
+const fs=require('node:fs'),path=require('node:path');
+let source=fs.readFileSync(path.join(__dirname,'SiteModel.cs'),'utf8');
+source=source.replaceAll('Capilla_conjunto_corregido.rvt','Capilla_ajuste_nuevas_tomas.rvt').replace('"renders","conjunto_corregido"','"renders","nuevas_tomas"');
+source=source.replaceAll('n.StartsWith("Portada")','n.StartsWith("Portada")||n.StartsWith("Cocina triangular")');
+const stage=fs.readFileSync(path.join(__dirname,'NewTakesStage.cs'),'utf8');
+source=source.replace(' public static object Execute(',stage+'\n public static object Execute(');
+source=source.replace('if(action=="siteportal")','if(action=="nextras")NExtras();else if(action=="nlayout")NLayout();else if(action=="nshelters")NShelters();else if(action=="nterrain")NTerrain();else if(action=="nlakes")NLakes();else if(action=="npaths")NPaths();else if(action=="nviews")NViews();else if(action=="ngroups")NGroups();else if(action=="siteportal")');
+fs.writeFileSync(path.join(__dirname,'NewTakesModel.cs'),source);
+let runner=fs.readFileSync(path.join(__dirname,'run-site.cjs'),'utf8').replace('SiteModel.cs','NewTakesModel.cs').replace('`site-${action}.json`','`new-${action}.json`');
+fs.writeFileSync(path.join(__dirname,'run-new-takes.cjs'),runner);

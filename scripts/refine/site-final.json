@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Users\\admin\\.codex\\.chatgpt-projects\\g-p-6acadee8e81c8191910d9dd6cf16b614\\Capilla\\revit\\Capilla_conjunto_corregido.rvt",
+  "saved": true,
+  "warnings": [
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        164302
+      ]
+    },
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        164479
+      ]
+    },
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        165918
+      ]
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "elements": [
+        164302,
+        164638
+      ]
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "elements": [
+        164397,
+        164479
+      ]
+    },
+    {
+      "message": "Solape de suelos y sólidos topográficos resaltados.",
+      "elements": [
+        165715,
+        165896
+      ]
+    },
+    {
+      "message": "Solape de suelos y sólidos topográficos resaltados.",
+      "elements": [
+        165896,
+        165918
+      ]
+    }
+  ],
+  "view": "CAPILLA - 05 Dron"
+}

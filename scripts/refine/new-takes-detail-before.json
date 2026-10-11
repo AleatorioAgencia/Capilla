@@ -1,0 +1,174 @@
+{
+  "doors": [
+    {
+      "id": 155080,
+      "host": 154879,
+      "symbol": 67177,
+      "family": "Simple-A ras",
+      "name": "0915 x 2134mm",
+      "p": "(0.000000000, -14.763779528, 0.000000000)"
+    },
+    {
+      "id": 155091,
+      "host": 154891,
+      "symbol": 67177,
+      "family": "Simple-A ras",
+      "name": "0915 x 2134mm",
+      "p": "(150.918635171, 49.212598425, 8.323707392)"
+    },
+    {
+      "id": 155096,
+      "host": 154895,
+      "symbol": 67177,
+      "family": "Simple-A ras",
+      "name": "0915 x 2134mm",
+      "p": "(-98.425196850, 6.561679790, 1.644920593)"
+    },
+    {
+      "id": 155099,
+      "host": 154899,
+      "symbol": 67177,
+      "family": "Simple-A ras",
+      "name": "0915 x 2134mm",
+      "p": "(-164.041994751, 29.527559055, 4.987106849)"
+    }
+  ],
+  "shapes": [
+    {
+      "id": 163499,
+      "name": "Zocalo de piedra del corredor"
+    },
+    {
+      "id": 163500,
+      "name": "Aleros canalones y bajantes"
+    },
+    {
+      "id": 163501,
+      "name": "Juntas de laminas limatesas y cumbrera"
+    },
+    {
+      "id": 163502,
+      "name": "Carpinterias y cortinas de fachada"
+    },
+    {
+      "id": 164678,
+      "name": "Peldanos de acceso desde la via"
+    },
+    {
+      "id": 164688,
+      "name": "Cerramiento rural de postes blancos"
+    },
+    {
+      "id": 165261,
+      "name": "Vehiculo blanco de referencia"
+    },
+    {
+      "id": 165262,
+      "name": "Vehiculo gris de referencia"
+    },
+    {
+      "id": 165264,
+      "name": "Tablas de fachada de la casa lateral"
+    },
+    {
+      "id": 165565,
+      "name": "9399 Madera estructural"
+    },
+    {
+      "id": 165566,
+      "name": "9399 Baranda torneada"
+    },
+    {
+      "id": 165567,
+      "name": "9399 Baldosa corredor"
+    },
+    {
+      "id": 165568,
+      "name": "9399 Cielo de madera"
+    },
+    {
+      "id": 165569,
+      "name": "9399 Carpinterias rejas"
+    },
+    {
+      "id": 165570,
+      "name": "9399 Mobiliario corredor"
+    },
+    {
+      "id": 165573,
+      "name": "9399 Escalinata acceso"
+    },
+    {
+      "id": 165574,
+      "name": "9399 Apoyos hamaca"
+    },
+    {
+      "id": 165712,
+      "name": "SITIO - Gallinero malla y postes 00m50"
+    },
+    {
+      "id": 165720,
+      "name": "SITIO - Tanques de agua al inicio 00m00"
+    },
+    {
+      "id": 165748,
+      "name": "SITIO - Cabana pequena baranda y canalon 02m40"
+    },
+    {
+      "id": 165824,
+      "name": "SITIO - Casa del perro y cerca blanca"
+    },
+    {
+      "id": 165836,
+      "name": "SITIO - Kiosco inferior abierto 07m50"
+    },
+    {
+      "id": 165837,
+      "name": "SITIO - Plataforma circular seca junto al kiosco"
+    },
+    {
+      "id": 165901,
+      "name": "SITIO - Lago 1 superior oval"
+    },
+    {
+      "id": 165902,
+      "name": "SITIO - Lago 2 superior curvo"
+    },
+    {
+      "id": 165903,
+      "name": "SITIO - Lago 3 inferior junto kiosco"
+    },
+    {
+      "id": 165913,
+      "name": "SITIO - Agua visible lago 1"
+    },
+    {
+      "id": 165914,
+      "name": "SITIO - Agua visible lago 2"
+    },
+    {
+      "id": 165915,
+      "name": "SITIO - Agua visible lago 3"
+    },
+    {
+      "id": 165998,
+      "name": "Bordillos y juntas de pavimentos"
+    },
+    {
+      "id": 166060,
+      "name": "SITIO - Cobertizo superior junto a lagos 04m22"
+    },
+    {
+      "id": 166061,
+      "name": "SITIO - Nervaduras cubierta kiosco"
+    },
+    {
+      "id": 166087,
+      "name": "SITIO - Portada pilares y muros"
+    },
+    {
+      "id": 166088,
+      "name": "SITIO - Portada tejas y cerchas"
+    }
+  ]
+}

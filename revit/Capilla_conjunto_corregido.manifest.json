@@ -1,0 +1,153 @@
+{
+  "revision": "Corrección del conjunto a partir del recorrido IMG_9399",
+  "savedAt": "2026-10-11T19:34:11.202Z",
+  "model": "Capilla_conjunto_corregido.rvt",
+  "baseline": "Capilla_recorrido_9399.rvt",
+  "modelBytes": 70660096,
+  "modelSha256": "cd0a10e7ebb867bfc90afdab76fd03a7e73307121ec2b427ed4ccfb5d0a8b076",
+  "referenceVideo": "../videos/IMG_9399.MOV",
+  "referenceSha256": "2845F428A41D5D5055EC9748DA75D4FA638348ADDEF909406041D601B6FB8E5F",
+  "analysis": "../analisis/revision_completa.json",
+  "interactiveReview": "../analisis/revision_completa.html",
+  "reviewMethod": {
+    "method": "665 capturas a un segundo que cubren 00:00–11:04, con ampliaciones de detalles. No se afirma inspección visual individual de los 19.942 fotogramas.",
+    "contactSheets": 23,
+    "audioTranscribed": false
+  },
+  "sourceFrameCount": 19942,
+  "proxyFrameCount": 19942,
+  "confirmedByOwner": [
+    "Inicio en los tanques; gallinero al lado cuesta abajo; después cabaña pequeña.",
+    "Hay tres lagos, casa del perro y kiosco inferior.",
+    "El lago visible hacia 07:25 está incluido en los tres."
+  ],
+  "changes": [
+    {
+      "element": "Tanques de agua",
+      "timeSeconds": 0,
+      "change": "Añadidos arriba del gallinero. Tres depósitos negros y uno de obra como aproximación visual."
+    },
+    {
+      "element": "Gallinero",
+      "timeSeconds": 26,
+      "change": "Sustituido el volumen genérico por nave abierta de malla. Uso confirmado por el propietario."
+    },
+    {
+      "element": "Cabaña pequeña",
+      "timeSeconds": 109,
+      "change": "Conservados muros y huecos base; revisados cubierta y corredor. Planta interior aún sin reconstruir."
+    },
+    {
+      "element": "Casa del perro",
+      "timeSeconds": 221,
+      "change": "Sustituida la interpretación anterior como santuario; volumen y altura reducidos. Identificación basada en la aclaración del propietario y forma visible."
+    },
+    {
+      "element": "Lagos 1 y 2 superiores",
+      "timeSeconds": 251,
+      "change": "Añadidos dos vasos con borde y agua; sendero desviado por su costado. Ubicación y niveles estimados."
+    },
+    {
+      "element": "Cobertizo junto a los lagos",
+      "timeSeconds": 262,
+      "change": "Sustituido el volumen cerrado genérico. Uso específico sin confirmar."
+    },
+    {
+      "element": "Lago 3 inferior",
+      "timeSeconds": 440,
+      "change": "Incluido como tercer lago por confirmación expresa del propietario. La plataforma circular clara próxima está seca y se representa aparte."
+    },
+    {
+      "element": "Kiosco inferior",
+      "timeSeconds": 469,
+      "change": "Sustituido el antiguo volumen etiquetado como invernadero por kiosco octagonal abierto."
+    },
+    {
+      "element": "Portada de acceso",
+      "timeSeconds": 480,
+      "change": "Sustituido el volumen cerrado por pilares de ladrillo con juntas, muros laterales escalonados y cubierta de teja sobre el paso. Portón lateral aún pendiente."
+    },
+    {
+      "element": "Casa principal y regreso",
+      "timeSeconds": 510,
+      "change": "Se conservan las mejoras de la revisión anterior. La distribución interior completa y proporciones exactas siguen pendientes."
+    }
+  ],
+  "lakeCount": 3,
+  "lakeDistribution": {
+    "upper": 2,
+    "lowerNextToKiosk": 1
+  },
+  "activeView": "CAPILLA - 05 Dron",
+  "verifiedViews": [
+    "08 Tanques gallinero cabana",
+    "09 Lagos superiores y caseta",
+    "10 Lago y kiosco inferior",
+    "11 Portada de acceso"
+  ],
+  "warningCount": 7,
+  "warnings": [
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        164302
+      ]
+    },
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        164479
+      ]
+    },
+    {
+      "message": "Puede que el grosor de este suelo sea ligeramente inexacto debido a modificaciones extremas de forma. Cabe la posibilidad de que las cotas de este elemento en secciones y detalles no indiquen con precisión el grosor mostrado en Propiedades de tipo.",
+      "elements": [
+        165918
+      ]
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "elements": [
+        164302,
+        164638
+      ]
+    },
+    {
+      "message": "Los suelos resaltados se solapan.",
+      "elements": [
+        164397,
+        164479
+      ]
+    },
+    {
+      "message": "Solape de suelos y sólidos topográficos resaltados.",
+      "elements": [
+        165715,
+        165896
+      ]
+    },
+    {
+      "message": "Solape de suelos y sólidos topográficos resaltados.",
+      "elements": [
+        165896,
+        165918
+      ]
+    }
+  ],
+  "validation": {
+    "modelSaved": true,
+    "referenceLinksChecked": 33,
+    "proxyDurationSeconds": 665.2646,
+    "videoMarkerSeekVerified": true,
+    "nextFrameButtonVerified": true
+  },
+  "limitations": [
+    "Escala, distancias, orientación y cotas estimadas.",
+    "Geometría de revisión visual; no levantamiento métrico.",
+    "Interiores completos y portón lateral de acceso pendientes.",
+    "La comprobación visual detallada no equivale a examinar individualmente todos los fotogramas del original.",
+    "Vegetación y mobiliario esquemáticos; no se considera terminada una reproducción de fidelidad ultra.",
+    "Siete avisos de Revit: tres de espesor de pavimento, dos de solape entre suelos y dos entre suelo y terreno.",
+    "Los detalles de malla, tanques, kiosco y caseta incluyen DirectShape; no todos son familias paramétricas."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "model":"Capilla_recorrido_9399.rvt",
+  "baseline":"Capilla_detallada.rvt",
+  "video":"../videos/IMG_9399.MOV",
+  "videoSeconds":665.27,
+  "analysis":"../fotogramas/recorrido9399/revision.json",
+  "changes":["Acabado amarillo de fachada principal","Baldosas terracota con juntas modeladas","Baranda con balaustres torneados y abertura de acceso","Cielo de tablas de madera y vigas expuestas en corredor","Rejas de ventanas","Mobiliario de referencia y hamaca con apoyos","Escalinata sobre relieve existente","Pino separado del corredor para evitar intersecciones"],
+  "newViews":["CAPILLA - 06 Acceso recorrido","CAPILLA - 07 Corredor recorrido"],
+  "verifiedExports":["../renders/recorrido9399 - Vista 3D - CAPILLA - 06 Acceso recorrido.png","../renders/recorrido9399 - Vista 3D - CAPILLA - 07 Corredor recorrido.png","../renders/recorrido9399 - Vista 3D - CAPILLA - 02 Casa y jardin.png"],
+  "basis":"Interpretacion visual. Medidas, cantidades de peldaños y posiciones de mobiliario estimadas. Los detalles nuevos son DirectShape; se conserva la arquitectura base nativa.",
+  "remaining":["Reconstruccion completa de interiores sin confirmar","Identificacion y ajuste de edificios auxiliares segun continuidad del recorrido","Medidas y topografia reales no disponibles","Vegetacion y mobiliario esquematicos; no es una reproduccion fotorealista","Tres avisos de espesor de pavimento y dos avisos de solape heredados"]
+}

@@ -1,0 +1,23 @@
+const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
+const {run}=require('./revit.cjs');
+const root=path.resolve(__dirname,'../..');
+const hash=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');
+(async()=>{
+ const validation=await run(fs.readFileSync(path.join(__dirname,'finish-new-takes.cs'),'utf8'));
+ if(!validation.saved||!validation.anchorChecks.every(c=>c.pass)||validation.lakeWaterShapes!==3)throw new Error('Comprobacion final incompleta');
+ fs.writeFileSync(path.join(__dirname,'new-takes-final.json'),JSON.stringify(validation,null,2));
+ require('../../analisis/build-new-takes-review.cjs');
+ const reportPath=path.join(root,'analisis/nuevas_tomas_2026-10-12.json');
+ const review=JSON.parse(fs.readFileSync(reportPath,'utf8'));
+ review.presentationNotes=['Las vistas 12, 13 y 15 son detalles con elementos ajenos al encuadre ocultos para evitar fragmentos de las cajas de sección. La vista 16 muestra el conjunto.'];
+ fs.writeFileSync(reportPath,JSON.stringify(review,null,2));
+ const htmlPath=path.join(root,'analisis/nuevas_tomas_2026-10-12.html');
+ const html=fs.readFileSync(htmlPath,'utf8').replace('<section><h2>Referencias nuevas</h2>',`<section><h2>Comprobaciones</h2><p>Modelo guardado; ${validation.anchorChecks.length} posiciones de referencia verificadas; tres lagos; ocho conjuntos agrupados. Quedan ${validation.warnings.length} avisos de Revit: tres sobre grosor de suelos, uno de solape entre suelos y uno de solape con terreno. Los identificadores están en el registro de comprobaciones.</p><p>Las vistas de detalle ocultan elementos fuera de su tema para evitar fragmentos recortados. La vista de conjunto conserva todos los edificios.</p></section><section><h2>Referencias nuevas</h2>`);
+ fs.writeFileSync(htmlPath,html);
+ const modelPath=validation.path;
+ const backupPath=path.join(root,'revit/backups/Capilla_movimientos_usuario_2026-10-12.rvt');
+ const manifest={createdAt:new Date().toISOString(),model:{path:modelPath,bytes:fs.statSync(modelPath).size,sha256:hash(modelPath)},backup:{path:backupPath,bytes:fs.statSync(backupPath).size,sha256:hash(backupPath)},references:review.references,review:review.review,findings:review.findings,validation,limitations:review.limits,presentationNotes:review.presentationNotes,outputs:{review:htmlPath,record:reportPath,renders:fs.readdirSync(path.join(root,'renders')).filter(n=>n.startsWith('nuevas_tomas - Vista 3D - CAPILLA - ')).map(n=>path.join(root,'renders',n))}};
+ const manifestPath=path.join(root,'revit/Capilla_ajuste_nuevas_tomas.manifest.json');
+ fs.writeFileSync(manifestPath,JSON.stringify(manifest,null,2));
+ console.log(JSON.stringify({saved:validation.saved,anchors:validation.anchorChecks.length,lakes:validation.lakeWaterShapes,groups:validation.groups.length,warnings:validation.warnings.length,modelBytes:manifest.model.bytes,manifest:manifestPath}));
+})().catch(e=>{console.error(e);process.exitCode=1;});
